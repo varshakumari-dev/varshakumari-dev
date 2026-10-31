@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+<defs><linearGradient id="tl" x1="0" x2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="198" rx="16" fill="#ffffff" stroke="#dbe3ee"/>
+<rect x="150" y="94" width="900" height="4" rx="2" fill="url(#tl)"/>
+<circle cx="150" cy="96" r="10" fill="#ffffff" stroke="#0ea5e9" stroke-width="4"/>
+<text x="150" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#0ea5e9">2021</text>
+<text x="150" y="140" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0b1f3a">Started BCA</text>
+<text x="150" y="163" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#55657d">Veer Kunwar Singh University</text><circle cx="450" cy="96" r="10" fill="#ffffff" stroke="#0ea5e9" stroke-width="4"/>
+<text x="450" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#0ea5e9">2024</text>
+<text x="450" y="140" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0b1f3a">Graduated</text>
+<text x="450" y="163" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#55657d">BCA · Computer Applications</text><circle cx="750" cy="96" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="4"/>
+<text x="750" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#2563eb">Jul 2025</text>
+<text x="750" y="140" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0b1f3a">Joined Realiser Labs</text>
+<text x="750" y="163" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#55657d">Software Developer · Pune</text><circle cx="1050" cy="96" r="18" fill="#34d399" opacity=".18"><animate attributeName="r" values="14;22;14" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1050" cy="96" r="10" fill="#ffffff" stroke="#34d399" stroke-width="4"/>
+<text x="1050" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#34d399">Now</text>
+<text x="1050" y="140" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0b1f3a">BOLD Precious Metals</text>
+<text x="1050" y="163" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#55657d">eCommerce platform + Cerebro</text>
+</svg>
