@@ -24,7 +24,7 @@
 - 🧩 I build **RESTful APIs in C#**, write **SQL Server stored procedures**, and create **Angular** screens
 - 🤖 I add AI features with the **Claude** and **Gemini** APIs
 - ⏰ I built a daily job that **auto-posts Google Sheet reports to Microsoft Teams**
-- 📍 From **Jamshedpur**, living in **Pune**
+- 📍 Based in **Pune**
 
 ### 🛠️ Tech stack
 
