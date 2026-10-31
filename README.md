@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:2563eb&height=200&section=header&text=Varsha%20Kumari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20.NET%20Core%20%C2%B7%20Web%20API%20%C2%B7%20Angular%20%C2%B7%20SQL%20Server&descSize=16&descAlignY=56&animation=fadeIn" alt="Varsha Kumari banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:2563eb&height=200&section=header&text=Varsha%20Kumari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=.NET%20Full%20Stack%20Developer%20%7C%20.NET%20Core%20%C2%B7%20Web%20API%20%C2%B7%20Angular%20%C2%B7%20SQL%20Server&descSize=16&descAlignY=56&animation=fadeIn" alt="Varsha Kumari banner" />
 </p>
 
 <p align="center">
-  <a href="https://vkvarsha007.github.io"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Full-stack+.NET+%26+Angular+developer;Building+e-commerce+for+gold+%26+silver+bullion;AI+integrations+with+Claude+%26+Gemini;Based+in+Pune%2C+India" alt="Typing intro" /></a>
+  <a href="https://vkvarsha007.github.io"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=.NET+Full+Stack+Developer;Building+e-commerce+for+gold+%26+silver+bullion;AI+integrations+with+Claude+%26+Gemini;Based+in+Pune%2C+India" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -17,8 +17,10 @@
 
 ### 👩‍💻 About me
 
-- 💼 **Junior Software Developer** at **Realisieren Technologies**, Pune (Jul 2025 – present)
-- 🪙 Working on **[BOLD Precious Metals](https://www.boldpreciousmetals.com/)**, a live US e-commerce platform for gold, silver and platinum bullion
+- 🎓 **BCA** from Veer Kunwar Singh University, with **1.6 years** of experience as a **.NET Full Stack Developer**
+- 💼 **Software Developer** at **Realiser Labs Pvt Ltd**, Pune (Jul 2025 – present)
+- 🪙 Working for the US client **[BOLD Precious Metals](https://www.boldpreciousmetals.com/)** on its eCommerce platform and **Cerebro**, the internal system that runs the website
+- 🔁 I own features end to end: development, unit testing, bug fixing and deployment to testing servers
 - 🧩 I build **RESTful APIs in C#**, write **SQL Server stored procedures**, and create **Angular** screens
 - 🤖 I add AI features with the **Claude** and **Gemini** APIs
 - ⏰ I built a daily job that **auto-posts Google Sheet reports to Microsoft Teams**
@@ -51,6 +53,7 @@
 | Project | What it is | Tech |
 | --- | --- | --- |
 | **[BOLD Precious Metals](https://www.boldpreciousmetals.com/)** | US online bullion store: live spot prices, catalog, checkout, order tracking, buyback, IRA | C#, ASP.NET Core, Web API, Angular, SQL Server |
+| **Cerebro** | Internal system the BOLD team uses to manage and run the website | .NET Core, ASP.NET MVC, Web API, SQL Server |
 | **Daily Teams report** | Scheduled job that posts a Google Sheet report link to a Teams channel every day | .NET, Google Sheets, Microsoft Teams |
 | **AI integration** | Claude and Gemini models connected to app features | C#, REST, Claude API, Gemini API |
 | **[My portfolio](https://vkvarsha007.github.io)** | This site, hosted on GitHub Pages | HTML, CSS, JavaScript |
