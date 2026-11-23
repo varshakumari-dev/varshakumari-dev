@@ -1,4 +1,4 @@
-<a href="https://varshakumari-dev.github.io">
+<a href="https://varshakumari.netlify.app">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
 <img alt="Varsha Kumari - .NET Full Stack Developer" src="assets/header-light.svg" width="100%">
@@ -6,9 +6,9 @@
 </a>
 
 <p align="center">
-<a href="https://varshakumari-dev.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-varshakumari--dev.github.io-0b1f3a?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://varshakumari.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-varshakumari.netlify.app-0b1f3a?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vkvarsha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vkvarsha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://varshakumari-dev.github.io/Varsha_Kumari_CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download-CV%20(PDF)-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+<a href="https://varshakumari.netlify.app/Varsha_Kumari_CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download-CV%20(PDF)-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 <a href="mailto:vkvarsh31@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-0d9488?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -75,5 +75,5 @@ deployment to testing servers, using **.NET Core**, **ASP.NET MVC**, **Web API**
 </details>
 
 <p align="center">
-<sub>Looking for a .NET full stack developer? Write to <a href="mailto:vkvarsh31@gmail.com">vkvarsh31@gmail.com</a> · <a href="https://varshakumari-dev.github.io/Varsha_Kumari_CV.pdf">Download my CV (PDF)</a></sub>
+<sub>Looking for a .NET full stack developer? Write to <a href="mailto:vkvarsh31@gmail.com">vkvarsh31@gmail.com</a> · <a href="https://varshakumari.netlify.app/Varsha_Kumari_CV.pdf">Download my CV (PDF)</a></sub>
 </p>
